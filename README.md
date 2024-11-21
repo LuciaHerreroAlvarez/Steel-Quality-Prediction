@@ -81,7 +81,7 @@ The following data files were used in the analysis:
 
 ---
 
-## 📝 4. Methodology
+## 📝 5. Methodology
 
 ### Data Cleaning
 - **Data loading issues**: Commas were replaced by periods in numeric values, and date formats were corrected.
@@ -110,7 +110,7 @@ The models were evaluated using **Mean Squared Error (MSE)** and **R² coefficie
 
 ---
 
-## 🏆 5. Results
+## 🏆 6. Results
 The built predictive models are able to estimate the final steel composition with acceptable performance, especially in predicting carbon content. Below are the key results:
 
 - **Carbon prediction**:
