@@ -56,7 +56,7 @@ A comprehensive analysis to understand the various factors influencing the steel
 Below here there is a screenshot of the Tableau dashboard that shows energy consumption, material usage, and the composition changes over time.
 Here it is the link: https://public.tableau.com/app/profile/luc.a.herrero.lvarez/viz/TableauProyectoFinal_17320067527690/Dashboard1?publish=yes
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.PNG)
 
 ---
 
