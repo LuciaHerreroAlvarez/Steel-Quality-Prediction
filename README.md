@@ -6,7 +6,7 @@ A comprehensive analysis to understand the various factors influencing the steel
 - [1. Objectives](#-1-objectives)
 - [2. Summary](#-2-summary)
 - [3. Dashboard](#-3-dashboard)
-- [4. Data Source and Structure](#-4-data-source-and-structure)
+- [4. Data Source and Structure](#%EF%B8%8F-4-data-source-and-structure)
 - [5. Methodology](#-5-methodology)
 - [6. Results](#-6-results)
   
