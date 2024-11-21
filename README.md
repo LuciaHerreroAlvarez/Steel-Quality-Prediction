@@ -3,12 +3,12 @@
 A comprehensive analysis to understand the various factors influencing the steel manufacturing process in an Electric Arc Furnace (EAF). This project aims to predict the final carbon and sulfur content in steel, identify key materials used in the process, and optimize energy consumption. Using advanced machine learning techniques and data visualization, this project provides valuable insights into steel quality control.
 
 ## 📑 Table of Contents
-- [🎯 1. Objectives](#1-objectives)
-- [📊 2. Summary](#2-summary)
-- [📈 3. Dashboard](#3-dashboard)
-- [🗂️ 4. Data Source and Structure](#4-data-source-and-structure)
-- [📝 5. Methodology](#5-methodology)
-- [🏆 6. Results](#6-results)
+- [1. Objectives](#-1-objectives)
+- [2. Summary](#-2-summary)
+- [3. Dashboard](#-3-dashboard)
+- [4. Data Source and Structure](#-4-data-source-and-structure)
+- [5. Methodology](#-5-methodology)
+- [6. Results](#-6-results)
   
 ---
 
