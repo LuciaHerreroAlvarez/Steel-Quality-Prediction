@@ -75,29 +75,29 @@ The following data files were used in the analysis:
 
 ## 📝 4. Methodology
 
-### 4.1 Data Cleaning
+### Data Cleaning
 - **Data loading issues**: Commas were replaced by periods in numeric values, and date formats were corrected.
 - **Handling missing data**: Missing values were identified and managed as they represent a small fraction of the total data.
 - **Outlier treatment**: Negative or out-of-limit values in some columns were identified and corrected.
 
-### 4.2 Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis (EDA)
 Various visualizations were performed to understand the behavior of the data:
 
 - **Time series of added materials**: The quantities of materials at different stages of the process were visualized using the "basket," "furnace," "basket2," and "ladle" tables.
 - **Distribution of most used materials**: The total amount of material charged per batch was analyzed, highlighting the most frequently used materials.
 
-### 4.3 Predictive Analysis
+### Predictive Analysis
 
-#### 4.3.1 Feature Selection
+#### Feature Selection
 The key features selected for predicting the final composition of the steel included the materials charged, the amount of oxygen and carbon added, temperature, and energy consumption, among other variables.
 
-#### 4.3.2 Predictive Models
+#### Predictive Models
 Several predictive models were created to estimate the final steel composition, with a particular focus on carbon and sulfur content. The models used include:
 
 - **Random Forest Regressor**: Used for predicting the final carbon composition with an R² performance of 0.74.
 - **Gradient Boosting Regressor**: An alternative model also trained to predict the final sulfur composition.
 
-### 4.4 Model Evaluation
+### Model Evaluation
 The models were evaluated using **Mean Squared Error (MSE)** and **R² coefficient**. A reasonable prediction was achieved, with good performance in predicting both carbon and sulfur content.
 
 ---
